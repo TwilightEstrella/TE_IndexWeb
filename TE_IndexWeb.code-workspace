@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "TE_IndexWeb"
+		},
+		{
+			"path": "TE_api"
+		},
+		{
+			"path": "TE_auth"
+		}
+	],
+	"settings": {}
+}
